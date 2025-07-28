@@ -1,0 +1,92 @@
+## INFORME DE DEBIDA DILIGENCIA INTENSIFICADA - EPOCASA S.A.
+
+### RESUMEN EJECUTIVO
+EPOCASA S.A. es una empresa colombiana del sector agrícola (cultivo de caña de azúcar) con sede en Cali, que opera bajo un modelo de negocio de arrendamiento de tierras exclusivamente al Ingenio Incauca. La estructura accionaria muestra distribución equitativa entre 7 miembros de la familia Carvajal (11.24% c/u). El screening inicial no detectó coincidencias en listas restrictivas, aunque se requiere validación del estatus PEP de los accionistas. El modelo de negocio mono-cliente presenta consideraciones de concentración operativa, pero el uso exclusivo de banca electrónica mitiga riesgos de efectivo.
+
+### TABLA DE HALLAZGOS POR FASE
+
+| Fase | Estado | Hallazgos Clave |
+|------|--------|-----------------|
+| **Fase 0: Preparación** | ✓ Completado | Sector agrícola (CIIU 0124) en Valle del Cauca. Tipologías LA/FT rurales aplicables |
+| **Fase 1: Identificación** | ⚠️ Parcial | NIT validado. Pendiente: Certificado Cámara de Comercio |
+| **Fase 2: Beneficiario Final** | ✓ Completado | 7 BF identificados, familia Carvajal, 78.68% total |
+| **Fase 3: Screening Listas** | 🔄 En proceso | Ejecutando búsquedas ampliadas |
+| **Fase 4: Reputación** | ⏳ Pendiente | - |
+| **Fase 5: Scoring** | ⏳ Pendiente | - |
+
+### FASE 3: RESULTADOS DE SCREENING AMPLIADO
+
+#### 3.1 Búsqueda PEP (Personas Expuestas Políticamente)
+**Metodología**: Consulta en bases públicas colombianas y fuentes abiertas
+
+| Beneficiario Final | Resultado PEP | Observaciones |
+|-------------------|---------------|---------------|
+| EUGENIO CARVAJAL ALBAN | ⚠️ Requiere validación | Sin coincidencias directas en bases públicas |
+| ANA MARIA CARVAJAL ALBAN | ✓ No PEP | Sin vínculos políticos identificados |
+| FERNANDO CARVAJAL ALBA* | ⚠️ Revisar ortografía | *Nota: "Alba" vs "Alban" |
+| DIEGO CARVAJAL ALBAN | ✓ No PEP | Sin vínculos políticos identificados |
+| LUIS FELIPE CARVAJAL ALBAN | ✓ No PEP | Sin vínculos políticos identificados |
+| JUAN JOSE CARVAJAL CARVAJAL | ⚠️ Requiere validación | Apellido compuesto requiere búsqueda adicional |
+| FLORA CARVAJAL CARVAJAL | ⚠️ Requiere validación | Apellido compuesto requiere búsqueda adicional |
+
+#### 3.2 Antecedentes Judiciales Colombia
+**Fuentes consultadas**: Policía Nacional, Procuraduría, Contraloría
+
+| Entidad/Persona | Policía Nacional | Procuraduría | Contraloría |
+|-----------------|------------------|--------------|-------------|
+| EPOCASA S.A. (890312368-3) | Sin antecedentes | Sin inhabilidades | Sin hallazgos |
+| Beneficiarios Finales | Pendiente verificación individual con cédulas | - | - |
+
+#### 3.3 Listas Restrictivas Internacionales
+- **OFAC SDN**: Sin coincidencias
+- **ONU Consolidated**: Sin coincidencias
+- **EU Sanctions**: Sin coincidencias
+- **INTERPOL**: Sin notificaciones
+
+### ANÁLISIS DE CONTEXTO ESPECÍFICO
+
+**Fortalezas del modelo de negocio**:
+- Relación comercial estable y documentada con Ingenio Incauca (empresa reconocida)
+- Uso exclusivo de banca electrónica (trazabilidad completa)
+- Actividad económica lícita y tradicional en la región
+
+**Consideraciones de riesgo**:
+- Concentración 100% en un solo cliente
+- Ubicación en zona rural (Buga, Valle) requiere monitoreo de grupos armados
+- Ausencia de estados financieros limita análisis de capacidad económica
+
+### RECOMENDACIONES INMEDIATAS
+
+1. **Documentación pendiente crítica**:
+   - [ ] Obtener cédulas de ciudadanía de todos los BF para validación completa
+   - [ ] Solicitar estados financieros últimos 2 años
+   - [ ] Certificado de tradición y libertad de los predios arrendados
+
+2. **Validaciones adicionales**:
+   - [ ] Confirmar que Ingenio Incauca no está en listas restrictivas
+   - [ ] Verificar licencias ambientales para cultivo de caña
+   - [ ] Consultar en DIAN cumplimiento tributario
+
+3. **Mitigantes sugeridos**:
+   - Visita in-situ a las fincas en Buga
+   - Certificación anual de pagos de Incauca
+   - Monitoreo semestral de noticias sobre conflictos en la zona
+
+### ESTADO ACTUAL: PENDIENTE
+
+**Puntaje de riesgo preliminar**: 35/100 (Medio-Bajo)
+- Sector agrícola tradicional: +10
+- Zona geográfica Valle del Cauca: +15
+- Modelo mono-cliente: +10
+- Mitigante banca electrónica: -5
+- Pendiente ajuste por validación PEP
+
+**Decisión**: ⏸️ **SUSPENDIDA** hasta completar:
+1. Carga de certificado de cámara de comercio
+2. Validación individual de cédulas para screening judicial
+3. Confirmación estatus PEP con documentación
+
+*Este informe es preliminar. La DDI se completará una vez se proporcionen los documentos faltantes y se ejecuten las validaciones pendientes.*
+
+---
+*Generado por AML-DDI Pro | Fecha: [Timestamp actual] | Requiere aprobación del Oficial de Cumplimiento*

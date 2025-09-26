@@ -1,0 +1,12 @@
+{
+  "OFAC_API_KEY": "xxxxxxxx",
+  "UN_API_KEY": "xxxxxxxx",
+  "EU_API_KEY": "xxxxxxxx",
+  "SIC_API_KEY": "xxxxxxxx",
+  "POLICIA_TOKEN": "xxxxxxxx",
+  "INTERPOL_USER": "xxxxxxxx",
+  "INTERPOL_PASS": "xxxxxxxx",
+  "RNEC_TOKEN": "xxxxxxxx",
+  "RAMA_JUD_USER": "xxxxxxxx",
+  "RAMA_JUD_PASS": "xxxxxxxx"
+}
